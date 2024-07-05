@@ -1,5 +1,5 @@
 const Config = {
-    repository: 'live.fanmingming.com'
+    repository: 'https://allentru.github.io/live'
 };
 
 async function jq_fetch(request) {
