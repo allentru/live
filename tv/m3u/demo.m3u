@@ -1,4 +1,4 @@
-CCTV1#EXTM3Ux-tvg-url="https://allentru.github.io/live/e.xml"
+CCTV1#EXTM3U x-tvg-url="https://allentru.github.io/live/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://allentru.github.io/live/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://allentru.github.io/live/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
